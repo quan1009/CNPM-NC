@@ -1,4 +1,4 @@
-# Tên đề tài
+# Tên đề tài : WEB bán máy tính online
 ## Danh sách thành viên
 * Ngô minh quân - 17DH110759
 * Vũ minh hiếu - 18DH110028
@@ -8,9 +8,15 @@
 <ul>
     <li> Ví dụ
         <ul>
-            <li> Với chức năng admin : Admin có thể quản lí các user theo account, thực hiện các thao tác xử lí tài khoản, gửi mật khẩu qua gmail</li>
-            <li> Với chức năng nhân viên : Nhân viên bán hàng có thể tương tác xử lý với tính năng quản lý sản phẩm, có thể theo dõi các đơn hàng thông qua các chức năng sort, đồng thời có thể chủ động thay đổi menu left và footer. </li>
-            <li>Với vai trò là khách hàng: người dùng có thể theo dõi tình trạng của đơn hàng, có thể xem lại các đơn hàng đã đặt, và cũng như có thể hủy đơn hàng. </li>
+            <li>Tạo ra trang web bán hàng online , hướng đến đối tượng người dùng không có nhiều
+                thời gian ra ngoài ( nhân viên văn phòng ,...) </li>
+
+            <li>Webside xây dựng cho phép người dùng có thể dễ dàng mua sắm sản phẩm,
+                cập nhật thông tin của các sản phẩm mới, sản phẩm bán chạy của cửa hàng,
+                tư vấn trực tiếp </li>
+
+            <li>Mục đích : Giúp dễ quảng bá thương hiệu, cửa hàng , giảm chi phí kinh doanh,
+                tăng doanh thu cho cửa hàng</li>  
         </ul>    
     </li>
 </ul>        
