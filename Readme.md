@@ -8,8 +8,9 @@
 <ul>
     <li> Ví dụ
         <ul>
-            <li> Giúp cho việc mua sắm của người dùng được thực hiện nhanh chóng, tiện lợi,.. </li>
-            <li> Giúp phát triển kiến thức cho việc lập trình web </li>
+            <li> Với chức năng admin : Admin có thể quản lí các user theo account, thực hiện các thao tác xử lí tài khoản, gửi mật khẩu qua gmail</li>
+            <li> Với chức năng nhân viên : Nhân viên bán hàng có thể tương tác xử lý với tính năng quản lý sản phẩm, có thể theo dõi các đơn hàng thông qua các chức năng sort, đồng thời có thể chủ động thay đổi menu left và footer. </li>
+            <li>Với vai trò là khách hàng: người dùng có thể theo dõi tình trạng của đơn hàng, có thể xem lại các đơn hàng đã đặt, và cũng như có thể hủy đơn hàng. </li>
         </ul>    
     </li>
 </ul>        
